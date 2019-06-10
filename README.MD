@@ -22,19 +22,19 @@ Just Drag & Drop the BalloonProgressBar into your Form.
 
 ## Images
 
-**Sample Screen**
+## Sample Screen
 ![](images/screen.png)
 
-**Updating the progress bar**
+## Updating the progress bar
 ![](images/progress.png)
 
-**Blue Theme**
+## Blue Theme
 ![](images/blue_theme.png)
 
-**Green Theme**
+## Green Theme
 ![](images/green_theme.png)
 
-**Orange Theme**
+## Orange Theme
 ![](images/orange_theme.png)
 
 ## License
